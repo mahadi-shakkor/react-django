@@ -1,0 +1,6 @@
+   cd path_to_your_project
+
+   git remote add origin https://github.com/shakkor2232/name-of-your-repository.git
+
+    git add .
+git commit -m "Initial commit"
